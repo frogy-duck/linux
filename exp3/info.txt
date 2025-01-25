@@ -1,0 +1,30 @@
+Run to give execution permission:  chmod +x file_dir_script.sh
+
+To run:		./file_dir_script.sh
+
+chmod +x loop_script.sh
+
+loop output:
+
+===== Using While Loop (Count from 1 to 5) =====
+Count: 1
+Count: 2
+Count: 3
+Count: 4
+Count: 5
+
+===== Using For Loop (Iterate over a list of items) =====
+Fruit: Apple
+Fruit: Banana
+Fruit: Cherry
+Fruit: Mango
+
+===== Using Until Loop (Count down from 5 to 1) =====
+Countdown: 5
+Countdown: 4
+Countdown: 3
+Countdown: 2
+Countdown: 1
+
+
+

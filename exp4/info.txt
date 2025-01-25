@@ -1,0 +1,7 @@
+Run to compile all programs: make 
+
+Run individual programs: 
+
+./command_line_args 10 20
+./system_calls
+./library_functions
